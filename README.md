@@ -25,13 +25,14 @@ Users should be able to:
 
 ### Screenshot
 
-![](/images/screenshot-desktop.png) |
+![](/images/screenshot-desktop.png)
 
 ![](/images/screenshot-mobile.png)
 
 ### Links
 
 [Frontend Mentor Solution Link](https://www.frontendmentor.io/solutions/advice-generator-app-using-adviceslip-api-KMgPwCZ_SC)
+ | 
 [Live preview link](https://advice-generator-app-main-kohl.vercel.app/)
 
 ## My process
