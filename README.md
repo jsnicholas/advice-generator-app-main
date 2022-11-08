@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/advice-generator-app-using-adviceslip-api-KMgPwCZ_SC)
-- Live Site URL: [Add live site URL here](https://advice-generator-app-main-kohl.vercel.app/)
+[Frontend Mentor Solution Link](https://www.frontendmentor.io/solutions/advice-generator-app-using-adviceslip-api-KMgPwCZ_SC)
+[Live preview link](https://advice-generator-app-main-kohl.vercel.app/)
 
 ## My process
 
