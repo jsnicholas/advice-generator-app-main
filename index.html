@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Frontend Mentor | Advice generator app</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Manrope:wght@800&display=swap"
+      rel="stylesheet"
+    />
+
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="./images/favicon-32x32.png"
+    />
+    <link rel="stylesheet" href="style.css" />
+    <script src="advice.js" defer></script>
+  </head>
+  <body>
+    <main class="wrapper">
+      <!-- Dynamic advice content -->
+      <div class="content">
+        <div class="ID">Advice #<span class="adviceID"></span></div>
+        <div class="advicetext">“<span class="advice"></span>”</div>
+        <!-- Divider with pause button thing -->
+        <div class="divider">
+          <span>
+            <img src="/images/pattern-divider-desktop.svg" />
+          </span>
+        </div>
+        <!-- End of divider-->
+        <!-- Dice roll button -->
+        <button id="tellme">
+          <img src="/images/icon-dice.svg" alt="Click to get new advice" />
+        </button>
+      </div>
+    </main>
+    <footer class="footer">
+      Coded by
+      <a
+        href="https://www.frontendmentor.io/profile/HarmoniaCodes"
+        target="_blank"
+        >Nick
+      </a>
+      for Frontend Mentor Challenge
+    </footer>
+  </body>
+</html>
