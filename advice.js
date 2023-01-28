@@ -2,7 +2,7 @@
 
 async function getAdvice() {
     //random number generator 1-100
-    var random = Math.floor((Math.random()*100) +1);
+    var random = Math.floor((Math.random()*200) +1);
     //Advice API + our random number
     const apiURL = 'https://api.adviceslip.com/advice/' + random;
     //get the data
