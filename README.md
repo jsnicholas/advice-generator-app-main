@@ -52,6 +52,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Harmonia.codes](https://harmonia.codes)
+- Website - [jsnicholas.me](http://jsnicholas.me)
 - Frontend Mentor - [@HarmoniaCodes](https://www.frontendmentor.io/profile/harmoniacodes)
-- Mastodon - [@tech.lgbt@harmonia](http://tech.lgbt/@harmonia)
